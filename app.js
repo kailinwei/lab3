@@ -1,4 +1,4 @@
-/*function addFavouriteMovie (movieNames)=["The"+ "Godfather","Casablanca", "Inception","The"+ "Mermaid"];
+/* lalala function addFavouriteMovie (movieNames)=["The"+ "Godfather","Casablanca", "Inception","The"+ "Mermaid"];
 if ("the"+ " godfather"=="the"+ " godfather" )//true
 
 
